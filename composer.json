@@ -1,0 +1,18 @@
+{
+    "name": "string-trimmer/string-trimmer",
+    "description": "Trims whitespace from a string.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe Gesualdo",
+            "email": "joegesualdo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+      "psr-4": {
+        "StringTrimmer\\": "src/"
+      }
+    },
+    "require": {}
+}
